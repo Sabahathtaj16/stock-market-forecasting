@@ -38,7 +38,7 @@ Team Members
 - Riya Yadav – SARIMA modeling, report creation & visualization
 
 Dataset
-- Source: [Kaggle]
+- Source: Kaggle
 - Contains daily stock prices: Open, High, Low, Close, Volume
 
 How to Use
@@ -52,7 +52,7 @@ Future Improvements
 - Deploy a web-based visualization dashboard using Streamlit
 - Automate daily retraining using updated stock feeds
 
-License
+License :
 This project is for educational purposes. For reuse or collaboration, please credit the contributors.
 
 Made during my internship at ZIDIO.
