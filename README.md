@@ -22,13 +22,6 @@ Tech Stack
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, pmdarima, Prophet, TensorFlow, Keras, Scikit-learn
 - Notebook Environment: Jupyter Notebook / Google Colab
 
-Project Structure
-├── stock_forecasting.ipynb # Main notebook with code
-├── stock_market_report.pdf # Final report
-├── data
-├── requirements.txt Python dependencies
-└── README.md # Project overview
-
 Evaluation Metrics
 - RMSE (Root Mean Squared Error)
 - MAE (Mean Absolute Error)
